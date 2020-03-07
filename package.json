@@ -51,7 +51,7 @@
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
     "retrotext": "^3.0.1",
-    "serialize-javascript": "^1.6.1",
+    "serialize-javascript": "^3.0.0",
     "snekfetch": "^4.0.4",
     "sqlite": "^3.0.0",
     "sqlite3": "^4.0.4",
